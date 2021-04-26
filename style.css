@@ -1,0 +1,11 @@
+#button {
+  height: 40px;
+  background: #ac9fab;
+  padding: 0 20px 0 20px;
+  font-weight: bold;
+  font-size: 17px;
+  position: fixed;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
